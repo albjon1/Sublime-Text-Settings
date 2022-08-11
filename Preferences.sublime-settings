@@ -3,9 +3,21 @@
 	[
 		"Vintage",
 	],
-	"theme": "OneDarkMaterial.sublime-theme",
+	"theme": "gruvbox.sublime-theme",
 	"color_scheme": "Packages/One Dark Material - Theme/schemes/OneDark.tmTheme",
 	"caret_style": "phase",
 	"caret_blink_interval": 0.8,
-	"wide_caret": true
+	"wide_caret": true,
+    // set vertical rulers in specified columns.
+    // Use "rulers": [80] for just one ruler
+    // default value is []
+    "rulers": [80],
+
+    // turn on word wrap for source and text
+    // default value is "auto", which means off for source and on for text
+    "word_wrap": true,
+
+    // set word wrapping at this column
+    // default value is 0, meaning wrapping occurs at window width
+    "wrap_width": 80
 }
