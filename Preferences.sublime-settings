@@ -1,13 +1,13 @@
 {
-	"ignored_packages":
-	[
-		"Vintage",
-	],
-	"theme": "gruvbox.sublime-theme",
-	"color_scheme": "Packages/One Dark Material - Theme/schemes/OneDark.tmTheme",
-	"caret_style": "phase",
-	"caret_blink_interval": 0.8,
-	"wide_caret": true,
+    "ignored_packages":
+    [
+        "Vintage",
+    ],
+    "theme": "gruvbox.sublime-theme",
+    "color_scheme": "Packages/One Dark Material - Theme/schemes/OneDark.tmTheme",
+    "caret_style": "phase",
+    "caret_blink_interval": 0.8,
+    "wide_caret": true,
     // set vertical rulers in specified columns.
     // Use "rulers": [80] for just one ruler
     // default value is []
